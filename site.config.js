@@ -33,8 +33,9 @@ window.AIRWAVES_SITE = {
     { slug: "first-signal", date: "2024 / DEMO", eyebrow: "ARCHIVE", title: "FIRST SIGNAL", summary: "The original three-song demo.", body: ["Three songs, two microphones, one very patient neighbor."], accent: "paper", tracks: ["Static Hearts", "After Midnight", "No Reply"] },
   ],
   members: [
-    { slug: "alex-chen", eyebrow: "VOCALS / GUITAR", title: "ALEX CHEN", summary: "Noise maker. Melody chaser. Usually the last one to leave rehearsal.", body: ["Alex started Airwaves with a notebook of half-finished lyrics and a guitar that never stayed in tune."], accent: "hot" },
-    { slug: "maya-lin", eyebrow: "BASS / VOCALS", title: "MAYA LIN", summary: "Low frequencies, high standards, zero patience for weak endings.", body: ["Maya makes the songs move and knows exactly when one more chorus is one chorus too many."], accent: "acid" },
-    { slug: "ren-wu", eyebrow: "DRUMS", title: "REN WU", summary: "Keeps the set on time by hitting things extremely hard.", body: ["Ren is the clock, the engine, and the reason everything in the rehearsal room needs tape."], accent: "paper" },
+    { slug: "brandon-chen", eyebrow: "DRUMMER", title: "BRANDON CHEN", summary: "Drummer for Airwaves.", body: ["Brandon Chen is the drummer for Airwaves."], accent: "hot" },
+    { slug: "rahul-chakravarthi", eyebrow: "LEAD GUITARIST", title: "RAHUL CHAKRAVARTHI", summary: "Lead guitarist for Airwaves.", body: ["Rahul Chakravarthi is the lead guitarist for Airwaves."], accent: "acid" },
+    { slug: "princeton-lee", eyebrow: "RHYTHM GUITAR AND SINGER", title: "PRINCETON LEE", summary: "Rhythm guitar and singer for Airwaves.", body: ["Princeton Lee plays rhythm guitar and sings for Airwaves."], accent: "paper" },
+    { slug: "liam-wong", eyebrow: "BASSIST", title: "LIAM WONG", summary: "Bassist for Airwaves.", body: ["Liam Wong is the bassist for Airwaves."], accent: "hot" },
   ],
 };
