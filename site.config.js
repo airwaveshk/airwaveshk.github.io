@@ -3,8 +3,8 @@ window.AIRWAVES_SITE = {
   /* Optional secure resolver, e.g. https://airwaves-api.example.workers.dev/youtube-duration.
      Leave blank to use the hosted YouTube iframe fallback. Never put a YouTube API key here. */
   youtubeDurationEndpoint: "",
-  intro: "Songs for the last train home. Built loud, played louder, and timed down to the second.",
-  about: "Airwaves is a band made for packed rooms, ringing ears, and the moment the whole crowd catches the same frequency.",
+  intro: "We Are AIRWAVES. Est. 2025.",
+  about: "AIRWAVES was founded in 2025 by Brandon C., Liam W., Rahul C and Princeton L.",
   email: "areweairwaves@gmail.com",
   navigation: [
     { label: "AIRWAVES", path: "index.html", page: "home" }, { label: "News", path: "news.html", page: "news" },
@@ -19,8 +19,7 @@ window.AIRWAVES_SITE = {
   },
   news: [
     { slug: "new-site-new-frequency", date: "AUG 21 / 2026", eyebrow: "BAND UPDATE", title: "NEW SITE. NEW FREQUENCY.", summary: "Airwaves is officially online. News, releases, live footage, and every set in one place.", body: ["We wanted one place that felt like the room right before the first chord: dark, tense, and ready to move.", "This is where we’ll share show announcements, new songs, behind-the-scenes footage, and whatever else survives rehearsal."], accent: "acid" },
-    { slug: "next-show-announced", date: "AUG 16 / 2026", eyebrow: "LIVE", title: "TAIPEI — WE’RE COMING BACK.", summary: "The next Airwaves show lands at The Wall this September.", body: ["Taipei, clear the evening. We’re bringing a sharper set, two new songs, and absolutely no quiet parts."], accent: "hot" },
-    { slug: "studio-signal", date: "JUL 30 / 2026", eyebrow: "FROM THE STUDIO", title: "THE RED LIGHT IS ON.", summary: "We’ve started tracking the next release. Here’s what we can tell you so far.", body: ["Drums are loud. Guitars are louder. The songs are starting to sound exactly as restless as we hoped."], accent: "paper" },
+    { slug: "next-show-announced", date: "SEPT 17 / 2026", eyebrow: "LIVE", title: "CENTRAL, WE'RE HERE FOR YOU.", summary: "The next Airwaves show lands at The Aftermath this September.", body: ["Hong Kong, clear the evening. We’re bringing a sharper set, two new songs, and absolutely no quiet parts."], accent: "hot" },
   ],
   media: [
     { slug: "live-at-revolver", date: "AUG 02 / 2026", eyebrow: "LIVE VIDEO", title: "LIVE AT REVOLVER", summary: "Nine songs, one overloaded room, and a camera that nearly survived.", body: ["Recorded live from the floor. No overdubs, no fixes, no distance between the band and the room."], accent: "hot", link: "https://youtube.com/" },
