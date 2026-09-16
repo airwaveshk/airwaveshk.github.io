@@ -22,9 +22,7 @@ window.AIRWAVES_SITE = {
     { slug: "next-show-announced", date: "SEPT 17 / 2026", eyebrow: "LIVE", title: "CENTRAL, WE'RE HERE FOR YOU.", summary: "The next Airwaves show lands at The Aftermath this September.", body: ["Hong Kong, clear the evening. We’re bringing a sharper set, two new songs, and absolutely no quiet parts."], accent: "hot" },
   ],
   media: [
-    { slug: "live-at-revolver", date: "AUG 02 / 2026", eyebrow: "LIVE VIDEO", title: "LIVE AT REVOLVER", summary: "Nine songs, one overloaded room, and a camera that nearly survived.", body: ["Recorded live from the floor. No overdubs, no fixes, no distance between the band and the room."], accent: "hot", link: "https://youtube.com/" },
-    { slug: "dead-frequency-session", date: "JUN 18 / 2026", eyebrow: "SESSION", title: "DEAD FREQUENCY / ROOM TAKE", summary: "A single-take version from the rehearsal room.", body: ["One camera, one take, all volume. This was the version that convinced us the song was finished."], accent: "acid", link: "https://youtube.com/" },
-    { slug: "backstage-noise-01", date: "MAY 09 / 2026", eyebrow: "PHOTO SET", title: "BACKSTAGE NOISE / 01", summary: "Load-in, line check, five minutes to doors.", body: ["A few frames from the quietest part of a loud night."], accent: "paper" },
+    { slug: "live-at-aftermath", date: "SEPT 17 / 2026", eyebrow: "LIVE PHOTOGRAPHY", title: "LIVE AT THE AFTERMATH", summary: "WE CAME. WE SAW, WE DIDN'T CONQUER", body: ["Recorded live from the floor."], accent: "hot", link: "https://youtube.com/" }
   ],
   releases: [
     { slug: "playground-song", date: "2026 / SINGLE", eyebrow: "LATEST RELEASE", title: "PLAYGROUND SONG", summary: "03:51 / Airwaves", body: ["Dead Frequency is about trying to reach someone who stopped listening a long time ago."], accent: "acid", tracks: ["Dead Frequency"], listenUrl: "#" },
