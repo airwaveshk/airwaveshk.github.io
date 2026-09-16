@@ -5,7 +5,7 @@ window.AIRWAVES_SITE = {
   youtubeDurationEndpoint: "",
   intro: "Songs for the last train home. Built loud, played louder, and timed down to the second.",
   about: "Airwaves is a band made for packed rooms, ringing ears, and the moment the whole crowd catches the same frequency.",
-  email: "hello@airwaves.band",
+  email: "areweairwaves@gmail.com",
   navigation: [
     { label: "AIRWAVES", path: "index.html", page: "home" }, { label: "News", path: "news.html", page: "news" },
     { label: "Media", path: "media.html", page: "media" }, { label: "Releases", path: "releases.html", page: "releases" },
@@ -13,9 +13,9 @@ window.AIRWAVES_SITE = {
     { label: "Contact", path: "contact.html", page: "contact" },
   ],
   nextShow: {
-    date: "SEP 19 / 2026", venue: "THE WALL LIVE HOUSE", city: "TAIPEI, TAIWAN",
-    doors: "DOORS 19:00 / AIRWAVES 21:10", note: "One room. Full volume. No wasted seconds.",
-    lineup: ["AIRWAVES", "SPECIAL GUEST TBA"], ticketUrl: "#",
+    date: "SEP 17 / 2026", venue: "THE AFTERMATH", city: "HONG KONG, HONG KONG",
+    doors: "DOORS 20:30 / AIRWAVES 20:30", note: "WE'RE BACK, ON THE WAVES.",
+    lineup: ["AIRWAVES"], ticketUrl: "#",
   },
   news: [
     { slug: "new-site-new-frequency", date: "AUG 21 / 2026", eyebrow: "BAND UPDATE", title: "NEW SITE. NEW FREQUENCY.", summary: "Airwaves is officially online. News, releases, live footage, and every set in one place.", body: ["We wanted one place that felt like the room right before the first chord: dark, tense, and ready to move.", "This is where we’ll share show announcements, new songs, behind-the-scenes footage, and whatever else survives rehearsal."], accent: "acid" },
@@ -28,9 +28,8 @@ window.AIRWAVES_SITE = {
     { slug: "backstage-noise-01", date: "MAY 09 / 2026", eyebrow: "PHOTO SET", title: "BACKSTAGE NOISE / 01", summary: "Load-in, line check, five minutes to doors.", body: ["A few frames from the quietest part of a loud night."], accent: "paper" },
   ],
   releases: [
-    { slug: "dead-frequency", date: "2026 / SINGLE", eyebrow: "LATEST RELEASE", title: "DEAD FREQUENCY", summary: "03:51 / Airwaves", body: ["Dead Frequency is about trying to reach someone who stopped listening a long time ago."], accent: "acid", tracks: ["Dead Frequency"], listenUrl: "#" },
-    { slug: "neon-weather", date: "2025 / EP", eyebrow: "FIVE TRACK EP", title: "NEON WEATHER", summary: "Five songs for the last train home.", body: ["Written between late rehearsals and early trains. Neon Weather is the first complete Airwaves transmission."], accent: "hot", tracks: ["Neon Weather", "Say It Back", "Runaway Signal", "Low Battery", "Last One Out"], listenUrl: "#" },
-    { slug: "first-signal", date: "2024 / DEMO", eyebrow: "ARCHIVE", title: "FIRST SIGNAL", summary: "The original three-song demo.", body: ["Three songs, two microphones, one very patient neighbor."], accent: "paper", tracks: ["Static Hearts", "After Midnight", "No Reply"] },
+    { slug: "playground-song", date: "2026 / SINGLE", eyebrow: "LATEST RELEASE", title: "PLAYGROUND SONG", summary: "03:51 / Airwaves", body: ["Dead Frequency is about trying to reach someone who stopped listening a long time ago."], accent: "acid", tracks: ["Dead Frequency"], listenUrl: "#" },
+    { slug: "good-mourning", date: "2026 / EP", eyebrow: "FIVE TRACK EP", title: "GOOD MOURNING", summary: "Five songs Are we Airwaves?.", body: ["WE ARE AIRWAVES."], accent: "hot", tracks: ["Playground Song, White Fangs, Nu Girl, We're Live on the Airwaves, Folks! Take Me Back (To October)"], listenUrl: "#" },
   ],
   members: [
     { slug: "brandon-chen", eyebrow: "DRUMMER", title: "BRANDON CHEN", summary: "Drummer for Airwaves.", body: ["Brandon Chen is the drummer for Airwaves."], accent: "hot" },
