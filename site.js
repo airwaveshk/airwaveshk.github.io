@@ -38,9 +38,9 @@
         <div class="menu-links">${config.navigation.map((item, index) => `
           <a href="${escapeHTML(item.path)}" class="${item.page === currentPage || item.page === detailMenuPage || (["next-set", "studio"].includes(currentPage) && item.page === "backstage") ? "active" : ""}"><span>${String(index + 1).padStart(2, "0")}</span><b>${escapeHTML(item.label)}</b><i>↗</i></a>`).join("")}
           <button class="lock-site" id="lock-site" type="button">LOCK BACKSTAGE PASS</button>
-        </div><div class="menu-meta">AIRWAVES / OFFICIAL SITE / TAIPEI</div>
+        </div><div class="menu-meta">AIRWAVES / OFFICIAL SITE / HONG KONG</div>
       </nav>
-      <div class="motion-ticker" aria-hidden="true"><div class="ticker-track"><span>AIRWAVES ONLINE</span><i>✦</i><span>TURN IT UP</span><i>✦</i><span>NO DEAD AIR</span><i>✦</i><span>MAKE IT LOUD</span><i>✦</i><span>AIRWAVES ONLINE</span><i>✦</i><span>TURN IT UP</span><i>✦</i><span>NO DEAD AIR</span><i>✦</i><span>MAKE IT LOUD</span><i>✦</i></div></div>`;
+      <div class="motion-ticker" aria-hidden="true"><div class="ticker-track"><span>TAKE ME BACK</span><i>✦</i><span>TO OCTOBER</span><i>✦</i><span>WE ARE AIRWAVES</span><i>✦</i><span>PLAYGROUND SONG</span><i>✦</i><span>AIRWAVES</span><i>✦</i><span>WHITE FANGS</span><i>✦</i><span>SINK DEEPER</span><i>✦</i><span>TAKE ME BACK</span><i>✦</i></div></div>`;
 
     const footer = document.querySelector("#site-footer");
     footer.innerHTML = `<footer><div class="footer-brand">AIRWAVES</div><div class="footer-credit">WE ARE &amp; AIRWAVES</div><div>© ${new Date().getFullYear()} / OFFICIAL SITE</div></footer>`;
