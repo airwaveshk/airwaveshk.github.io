@@ -25,7 +25,7 @@ window.AIRWAVES_SITE = {
     { slug: "live-at-aftermath", date: "SEPT 17 / 2026", eyebrow: "LIVE PHOTOGRAPHY", title: "LIVE AT THE AFTERMATH", summary: "WE CAME. WE SAW, WE DIDN'T CONQUER", body: ["Recorded live from the floor."], accent: "hot", link: "https://www.youtube.com/@Airwaves-HK" }
   ],
   releases: [
-    { slug: "playground-song", date: "2026 / SINGLE", eyebrow: "LATEST RELEASE", title: "PLAYGROUND SONG", summary: "03:51 / Airwaves", body: ["Dead Frequency is about trying to reach someone who stopped listening a long time ago."], accent: "acid", tracks: ["PLAYGROUND SONG"], listenUrl: "https://www.youtube.com/watch?v=OeIPnGZFdkU&t=45s" },
+    { slug: "playground-song", date: "2026 / SINGLE", eyebrow: "LATEST RELEASE", title: "PLAYGROUND SONG", summary: "03:51 / Airwaves", body: ["I tried. This world is falling."], accent: "acid", tracks: ["PLAYGROUND SONG"], listenUrl: "https://www.youtube.com/watch?v=OeIPnGZFdkU&t=45s" },
     { slug: "good-mourning", date: "2026 / EP", eyebrow: "FIVE TRACK EP", title: "GOOD MOURNING", summary: "Five songs Are we Airwaves?.", body: ["WE ARE AIRWAVES."], accent: "hot", tracks: ["Playground Song, White Fangs, Nu Girl, We're Live on the Airwaves, Folks! Take Me Back (To October)"], listenUrl: "#" },
   ],
   members: [
