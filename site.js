@@ -43,7 +43,7 @@
       <div class="motion-ticker" aria-hidden="true"><div class="ticker-track"><span>AIRWAVES ONLINE</span><i>✦</i><span>TURN IT UP</span><i>✦</i><span>NO DEAD AIR</span><i>✦</i><span>MAKE IT LOUD</span><i>✦</i><span>AIRWAVES ONLINE</span><i>✦</i><span>TURN IT UP</span><i>✦</i><span>NO DEAD AIR</span><i>✦</i><span>MAKE IT LOUD</span><i>✦</i></div></div>`;
 
     const footer = document.querySelector("#site-footer");
-    footer.innerHTML = `<footer><div class="footer-brand">AIRWAVES</div><div class="footer-credit">BUILT FOR LOUD ROOMS &amp; TIGHT CHANGEOVERS</div><div>© ${new Date().getFullYear()} / OFFICIAL SITE</div></footer>`;
+    footer.innerHTML = `<footer><div class="footer-brand">AIRWAVES</div><div class="footer-credit">WE ARE &amp; AIRWAVES</div><div>© ${new Date().getFullYear()} / OFFICIAL SITE</div></footer>`;
   }
 
   function detailUrl(type, slug) {
